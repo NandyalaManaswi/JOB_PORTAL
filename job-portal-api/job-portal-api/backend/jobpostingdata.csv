@@ -1,0 +1,12 @@
+﻿id,job_title,company,location,salary_range,tags,date_posted
+1,Software Engineer,ABC Company,Bengaluru,"₹8,00,000 - ₹10,00,000","Python, Django, SQL",2023-05-28T14:46:28.540551Z
+2,Front-end Developer,XYZ Corporation,Mumbai,"₹7,00,000 - ₹9,00,000","HTML, CSS, JavaScript, React",2023-05-28T14:46:28.540551Z
+3,Data Analyst,Data Insights Ltd.,Delhi,"₹4,00,000 - ₹5,00,000","SQL, Excel, Data Visualization",2023-05-28T14:46:28.540551Z
+4,UX Designer,Creative Designs Inc.,Chennai,"₹6,00,000 - ₹8,00,000","User Research, Wireframing, Prototyping",2023-05-28T14:46:28.540551Z
+5,Full Stack Developer,Tech Solutions Ltd.,Hyderabad,"₹5,00,000 - ₹7,00,000","JavaScript, Node.js, React, MongoDB",2023-05-28T14:46:28.540551Z
+6,Marketing Manager,Global Marketing Agency,Kolkata,"₹9,00,000 - ₹11,00,000","Digital Marketing, SEO, Social Media",2023-05-28T14:46:28.540551Z
+7,Project Manager,Leading Tech Solutions,Bengaluru,"₹10,00,000 - ₹12,00,000","Agile, Scrum, Stakeholder Management",2023-05-28T14:46:28.540551Z
+8,Graphic Designer,Creative Minds Studio,Delhi,"₹4,00,000 - ₹6,00,000","Adobe Photoshop, Illustrator, Branding",2023-05-28T14:46:28.540551Z
+9,Sales Executive,SalesPro Inc.,Mumbai,"₹5,00,000 - ₹7,00,000","Sales, Negotiation, Relationship Building",2023-05-28T14:46:28.540551Z
+10,Data Scientist,Analytics Solutions,Bengaluru,"₹8,00,000 - ₹10,00,000","Python, Machine Learning, Data Analysis",2023-05-28T14:46:28.540551Z
+11,Software Engineer,ABC Company,Chennai,"₹8,00,000 - ₹10,00,000","Python, Django, SQL",2023-05-28T14:46:28.
