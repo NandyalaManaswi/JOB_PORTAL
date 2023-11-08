@@ -1,0 +1,71 @@
+.firstcard {
+  width: 90vw;
+  height: 8rem;
+  margin: 2rem;
+  
+  padding: 1rem;
+  border-radius: 10px; /* Added */
+  overflow: hidden; /* Added */
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Added */
+}
+.h6{
+  margin:0;
+}  
+  .mule {
+    border-radius: 50%;
+    height: 4rem; /* Decreased height */
+    width: 4rem; /* Decreased width */
+    padding: 0.5rem;
+  }
+  
+  .worldbutton {
+    border-radius: 20px;
+    margin-left: 1rem;
+    text-transform: none;
+    font-weight: 400;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    margin: 3px; /* Reduced margin */
+    margin-left: 0;
+    margin-right: 7px;
+    background: black;
+  }
+
+  .smallButton{
+    padding:1px 1px;
+  }
+  
+  .space {
+    margin: 0;
+  }
+  
+  .skill {
+    height: 1.5rem; /* Decreased height */
+    margin: 0.5rem;
+    margin-left: 4rem; /* Adjusted margin */
+  }
+  
+  .jobpostedduration {
+    margin-top: 1rem; /* Reduced margin-top */
+    padding-left: 8rem; /* Adjusted padding-left */
+  }
+  
+  .role {
+    height: 3rem; /* Decreased height */
+    margin-top: 0;/* Added */
+   /* Added */
+  
+  }
+  
+  .techbutton {
+    border-radius: 12px;
+    margin: 0.5rem;
+    background-color: transparent;
+    font-weight: bold;
+    border: 2px solid black;
+  }
+  
